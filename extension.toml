@@ -1,0 +1,7 @@
+id = "codely-theme-zed"
+name = "Codely Theme"
+schema_version = 1
+version = "0.0.1"
+description = "A Codely-inspirared theme for Zed"
+authors = ["GOI17 <olviasgilberto@gmail.com>"]
+repository = "https://github.com/GOI17/codely-theme-zed"
